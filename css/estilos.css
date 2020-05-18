@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/67/3a/b1/673ab1ddbefd571453dd36f8fc8458ea.jpg");
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: Broadway;
+  }
+  
+  .menu{
+    background-color: #238e23;
+    font-family: Arial;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .menu li{
+    list-style: "🍄";
+  }
+  
+  a{
+    color: #C0D9D9;
+    text-decoration: none; 
+  }
+  
+  a:hover{
+    color: #FF0000;
+    text-decoration: none;
+  }
+  .site-subtitle,
+  .site-title {
+    color: #a62a2a;
+    text-align: center;
+    background-color: none;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
